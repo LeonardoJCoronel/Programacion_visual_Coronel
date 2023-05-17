@@ -28,6 +28,8 @@ userList.push({
     telefono: "0999999999"
 });
 
+console.log(userList[0]);
+
 userList.push({
     nombre: "JuanitoProGamer",
     edad: 12,
